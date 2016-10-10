@@ -1,0 +1,6 @@
+{
+  "name": "梦幻丛林",
+  "tagline": "Kun's Blog",
+  "body": "## JDBC：Java DataBase Connector，连接数据库的工具。\r\n\r\n### 第一步：设置数据源。\r\n（1） 打开“控制面板”选择“系统和安全”，再选择“管理工具”，最后选择“数据源”。  \r\n（2） 再用户DSN标签下选“添加”，选择“Microsoft Access Driver (*.mdb)”。  \r\n（3）点击“选择”按钮找到自己的Hr.mdb文件。  \r\n\r\n### 第二步：连接数据库。\r\n（1）新建DBConnector类。  \r\n（2）定义所需的变量。  \r\n（3）进行连接  \r\n\r\n### 第三步（1）：进行查询。\r\n（1）创建语句。  \r\n（2）使用语句进行查询获取到结果集rs。  \r\n（3）展示rs中的数据。  \r\n\r\n\r\n### 第三步（2）：进行修改。\r\n（1）创建语句。  \r\n（2）使用语句进行更新。  \r\n（3）根据返回值确定更新是否成功。  \r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
